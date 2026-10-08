@@ -1,0 +1,10 @@
+{
+  "name": "Laporan Kegiatan Pegawai STABN Raden Wijaya",
+  "description": "Aplikasi Digitalisasi Pencatatan, Pemantauan, dan Pelaporan Kegiatan Kerja Harian Pegawai STABN Raden Wijaya Wonogiri",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
